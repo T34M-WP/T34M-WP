@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/warin prompichai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warin prompichai" height="30" width="40" /></a>
-<a href="https://fb.com/warin prompichai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="warin prompichai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/warin prompichai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Warin Prompichai" height="30" width="40" /></a>
+<a href="https://fb.com/warin prompichai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Warin Prompichai" height="30" width="40" /></a>
 <a href="https://instagram.com/t34m.wp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t34m.wp" height="30" width="40" /></a>
 </p>
 
