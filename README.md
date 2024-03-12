@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying Bachelor of Computer Engineering **King Mongkut's Institute of TechnologyLadkrabang**
 
-- 🌱 I’m currently learning **react,vue,angular**
+- 🌱 I’m currently learning **react,vue,angular,typescript,node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/T34M-WP](https://github.com/T34M-WP)
 
