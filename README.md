@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/T34M-WP](https://github.com/T34M-WP)
 
-- 📫 How to reach me **64200358@kmitl.ac.th**
+- 📫 How to reach me **64200358@kmitl.ac.th** or **3343.warin@gmail.com**
 
 - 📄 Know about my experiences [https://t34m-wp.github.io/myportfolio/](https://t34m-wp.github.io/myportfolio/)
 
